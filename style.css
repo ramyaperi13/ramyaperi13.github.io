@@ -3,12 +3,19 @@ body{
 	background-size: 1300px 800px;
 }
 h1{
-	text-align: left;
+	text-align: center;
 	font-style: serif;
 	color: black;
 	}
 h2{
-	text-align: left;
+	text-align: center;
 	font-style: serif;
 	color: white;
 	}
+.list {
+	text-align:  center;
+	padding-top: 20%;
+	padding-bottom: 100%;
+	color: #fff;
+
+}
