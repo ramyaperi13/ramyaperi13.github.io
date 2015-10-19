@@ -13,8 +13,11 @@ body{
 	color: white;
 	}
 .list {
-	text-align:  center;
+	text-align:  left;
 	font-size: 40;
 	font-weight: 200;
 	color: black;
+	}	
+.button {
+	text-align:  center;
 	}	
