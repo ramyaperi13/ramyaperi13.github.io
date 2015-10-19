@@ -2,12 +2,12 @@ body{
 	background: url(spice.jpg) no-repeat;
 	background-size: 1300px 800px;
 }
-h1{
+.header {
 	text-align: center;
 	font-style: serif;
-	color: black;
+	color: white;
 	}
-h2{
+.sub-header {
 	text-align: center;
 	font-style: serif;
 	color: white;
@@ -16,6 +16,5 @@ h2{
 	text-align:  center;
 	padding-top: 20%;
 	padding-bottom: 100%;
-	color: #fff;
-
-}
+	color: white;
+	}	
